@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Mess-Vess - Searching food is now simple</title>
+  </head>
+
+  <body>
+    <nav class="navbar background">
+      <ul class="nav-list">
+        <div class="logo"><img src="img/food2.jpg" alt="logo" /></div>
+        <li><a href="#home"> Home</a></li>
+        <li><a href="#About Us"> About Us</a></li>
+        <li><a href="#Services"> Services</a></li>
+        <li><a href="#Contact Us"> Contact Us</a></li>
+      </ul>
+
+      <div class="rightnav">
+        <input type="text" name="seach" id="search" />
+        <button class="btn btn-sm">Search</button>
+      </div>
+    </nav>
+    
+    <section class="background firstSection">
+      <div class="box-main">
+        <div class="firstHalf">
+          <p class="text-big">The problem of searching for food is over !</p>
+          <p class="text-small">we are facing the problem of deciding (...)</p>
+          <div class="buttons">
+              <button class="btn">Order Now</button>
+              <button class="btn">Add to cart</button>
+            </div>
+        </div>
+        <div class="secondHalf">
+            <img src="/img/food2.jpg" alt="food image">
+        </div>
+      </div>
+    </section>
+  
+    <section class="secRight">
+      <div class="paras">
+      <p class="sectionTag text-big">The end of your search is here </p>
+      <p class="sectionSubTag text-small">Lorem atae sapiente natus a vel consequuntur ab ipsa nihil eveniet cupiditate quibusdam quas nam accusantium nesciunt expedita aliquid, iste dolorum eligendi minus reiciendis voluptatem, nemo magni laudantium perspiciatis. Dolores odit totam facere nisi excepturi, magni officia sunt. Earum deserunt dolores autem quia sit enim nostrum, placeat officiis eveniet aspernatur dicta consequatur est et omnis ducimus? Quasi excepturi iste ipsam numquam eligendi voluptates nostrum, accusantium id modi quidem ratione deserunt officia porro. Rem minus veritatis nostrum. Eaque adipisci nulla dolorem reprehenderit consequatur molestias officia, laboriosam eligendi error rem iusto nesciunt quisquam ad. Fugit veniam distinctio sit. Ad aliquam molestias porro aut nesciunt cumque recusandae alias qui neque, temporibus placeat fugiat autem adipisci a eos cum asperiores sint dolores at dolore debitis ea numquam!</p>
+      </div>
+      <div class="thumbnail">
+        <img src="img/food2.jpg" alt="logo image" class="imgFluid">
+      </div>
+    </section>
+    
+    
+    <section class="secLeft">
+      <div class="paras">
+      <p class="sectionTag text-big">The end of your search is here </p>
+      <p class="sectionSubTag text-small">Lorem atae sapiente natus a vel consequuntur ab ipsa nihil eveniet cupiditate quibusdam quas nam accusantium nesciunt expedita aliquid, iste dolorum eligendi minus reiciendis voluptatem, nemo magni laudantium perspiciatis. Dolores odit totam facere nisi excepturi, magni officia sunt. Earum deserunt dolores autem quia sit enim nostrum, placeat officiis eveniet aspernatur dicta consequatur est et omnis ducimus? Quasi excepturi iste ipsam numquam eligendi voluptates nostrum, accusantium id modi quidem ratione deserunt officia porro. Rem minus veritatis nostrum. Eaque adipisci nulla dolorem reprehenderit consequatur molestias officia, laboriosam eligendi error rem iusto nesciunt quisquam ad. Fugit veniam distinctio sit. Ad aliquam molestias porro aut nesciunt cumque recusandae alias qui neque, temporibus placeat fugiat autem adipisci a eos cum asperiores sint dolores at dolore debitis ea numquam!</p>
+      </div>
+      <div class="thumbnail">
+        <img src="img/food2.jpg" alt="logo image" class="imgFluid">
+      </div>
+    </section>
+
+    
+    <section class="secRight">
+      <div class="paras">
+      <p class="sectionTag text-big">The end of your search is here </p>
+      <p class="sectionSubTag text-small">Lorem atae sapiente natus a vel consequuntur ab ipsa nihil eveniet cupiditate quibusdam quas nam accusantium nesciunt expedita aliquid, iste dolorum eligendi minus reiciendis voluptatem, nemo magni laudantium perspiciatis. Dolores odit totam facere nisi excepturi, magni officia sunt. Earum deserunt dolores autem quia sit enim nostrum, placeat officiis eveniet aspernatur dicta consequatur est et omnis ducimus? Quasi excepturi iste ipsam numquam eligendi voluptates nostrum, accusantium id modi quidem ratione deserunt officia porro. Rem minus veritatis nostrum. Eaque adipisci nulla dolorem reprehenderit consequatur molestias officia, laboriosam eligendi error rem iusto nesciunt quisquam ad. Fugit veniam distinctio sit. Ad aliquam molestias porro aut nesciunt cumque recusandae alias qui neque, temporibus placeat fugiat autem adipisci a eos cum asperiores sint dolores at dolore debitis ea numquam!</p>
+      </div>
+      <div class="thumbnail">
+        <img src="img/food2.jpg" alt="logo image" class="imgFluid">
+      </div>
+    </section>
+  
+  </body>
+
+</html>
